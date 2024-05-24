@@ -1,0 +1,6 @@
+moviepy
+pytube
+youtube-search-python
+time 
+os
+num2words
